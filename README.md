@@ -3,9 +3,13 @@ This project aims to predict the risk of cardiovascular disease using machine le
 
 
 📁 Project Structure
+
 ├── cardio_train.csv       # Training dataset
+
 ├── cardiotest.csv         # Test dataset
+
 ├── heart.py               # Python script with model training and prediction
+
 └── README.md              # Project documentation
 
 
